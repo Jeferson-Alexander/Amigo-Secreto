@@ -13,7 +13,6 @@ git clone https://seu-repositorio.git
 	Adicionar amigos: Digite o nome de um amigo no campo de texto e clique no botão "Adicionar".
 	Sortear: Clique no botão "Sortear" para obter um amigo secreto aleatório.
 
-<p> https://github.com/user-attachments/assets/5467fd1b-a91e-4e45-9f52-e29f6cc94243 </p>
 ##### Estrutura de arquivos:
 	index.html: Arquivo principal da página web.
 	script.js: Arquivo JavaScript com a lógica do aplicativo.
@@ -23,3 +22,7 @@ git clone https://seu-repositorio.git
 	JavaScript: Para a lógica do aplicativo.
 ###### Autores:
 	Jeferson Alexander da Silva
+
+<section >
+	<p> https://github.com/user-attachments/assets/5467fd1b-a91e-4e45-9f52-e29f6cc94243 </p>
+<M/section>
