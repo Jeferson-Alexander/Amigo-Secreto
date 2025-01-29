@@ -12,14 +12,14 @@ git clone https://seu-repositorio.git
 	Abrir o arquivo HTML: Abra o arquivo index.html em um navegador web.
 	Adicionar amigos: Digite o nome de um amigo no campo de texto e clique no botão "Adicionar".
 	Sortear: Clique no botão "Sortear" para obter um amigo secreto aleatório.
-![VIDEO](https://github.com/user-attachments/assets/3e230f37-b966-4ba3-8397-e89010947657)
-##### Estrutura de arquivos:
+##### ![VIDEO COMO USAR ](https://github.com/user-attachments/assets/3e230f37-b966-4ba3-8397-e89010947657)
+###### Estrutura de arquivos:
 	index.html: Arquivo principal da página web.
 	script.js: Arquivo JavaScript com a lógica do aplicativo.
-##### Tecnologias utilizadas:
+####### Tecnologias utilizadas:
 	HTML: Para a estrutura da página.
 	CSS: Para estilizar a página (opcional).
 	JavaScript: Para a lógica do aplicativo.
-###### Autores:
+######## Autores:
 	Jeferson Alexander da Silva
 
