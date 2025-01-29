@@ -13,9 +13,7 @@ git clone https://seu-repositorio.git
 	Adicionar amigos: Digite o nome de um amigo no campo de texto e clique no botão "Adicionar".
 	Sortear: Clique no botão "Sortear" para obter um amigo secreto aleatório.
 
-<p align ="center>
-	<img width ="460" height ="300 src=src/assets/to_readmi/15-47-38.mp4>
-</p>
+<p> https://github.com/user-attachments/assets/5467fd1b-a91e-4e45-9f52-e29f6cc94243 </p>
 ##### Estrutura de arquivos:
 	index.html: Arquivo principal da página web.
 	script.js: Arquivo JavaScript com a lógica do aplicativo.
