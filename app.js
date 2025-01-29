@@ -1,6 +1,4 @@
-alert ('Este jogo sera do amigo secreto');
 let amigos= [];
-
 function adicionarAmigo(){
     const inputNome = document.getElementById('amigo');
     const nomeAmigo = inputNome.value;
