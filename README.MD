@@ -24,5 +24,5 @@ git clone https://seu-repositorio.git
 	Jeferson Alexander da Silva
 
 <section >
-	<p> https://github.com/user-attachments/assets/5467fd1b-a91e-4e45-9f52-e29f6cc94243 </p>
-<M/section>
+	<p> (https://github.com/user-attachments/assets/5467fd1b-a91e-4e45-9f52-e29f6cc94243) </p>
+</section>
